@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\game_corner.jpg"
     },
     {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 2 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\game_corner2.jpg",
+      "PackagePath": "staticwebassets\\images\\game_corner2.jpg"
+    },
+    {
       "Id": "C:\\Users\\riden\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 2 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
