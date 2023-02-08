@@ -13,7 +13,8 @@ namespace TipCalculator.Models
             if (MealCost.HasValue)
             {
                 var tip = MealCost.Value / percent;
-                return tip
+                //added a semicolon
+                return tip;
             }
             else
             {
