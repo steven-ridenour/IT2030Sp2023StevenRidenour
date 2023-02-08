@@ -27,6 +27,13 @@ ___
 ### Errors found in Tip Calculator app:
 
 
+### Errors in wwwroot: 
+site.css:
+label{width} was spelled incorrectly
+
+## Errors in Models:
+TipCalculator.cs:
+added a semicolon
 
 
 
