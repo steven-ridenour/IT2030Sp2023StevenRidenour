@@ -40,5 +40,9 @@ HomeController.cs:
 changed Viewbag to ViewBag
 return missing from return View()
 
+## Errors in Views
+Home\Index.cshtml:
+Corrected spelling of Fifteen
+
 
 
