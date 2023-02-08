@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Yetunde\\.nuget\\packages\\": {}
+    "C:\\Users\\riden\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yetunde\\OneDrive\\Desktop\\Foluso's Tri-c Classes\\IT2030 ASP.NET Spring 2023\\Weekly Lab Assignments-New4Sp2023\\Week 4 Lab Materials\\5-1_TipCalculator-Wk4\\TipCalculator\\TipCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\riden\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 4 Lab\\TipCalculator-Wk4\\TipCalculator\\TipCalculator.csproj",
       "projectName": "TipCalculator",
-      "projectPath": "C:\\Users\\Yetunde\\OneDrive\\Desktop\\Foluso's Tri-c Classes\\IT2030 ASP.NET Spring 2023\\Weekly Lab Assignments-New4Sp2023\\Week 4 Lab Materials\\5-1_TipCalculator-Wk4\\TipCalculator\\TipCalculator.csproj",
-      "packagesPath": "C:\\Users\\Yetunde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yetunde\\OneDrive\\Desktop\\Foluso's Tri-c Classes\\IT2030 ASP.NET Spring 2023\\Weekly Lab Assignments-New4Sp2023\\Week 4 Lab Materials\\5-1_TipCalculator-Wk4\\TipCalculator\\obj\\",
+      "projectPath": "C:\\Users\\riden\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 4 Lab\\TipCalculator-Wk4\\TipCalculator\\TipCalculator.csproj",
+      "packagesPath": "C:\\Users\\riden\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\riden\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 4 Lab\\TipCalculator-Wk4\\TipCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Yetunde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\riden\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
