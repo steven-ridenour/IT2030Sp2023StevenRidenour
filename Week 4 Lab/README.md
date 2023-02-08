@@ -2,10 +2,10 @@
 ___
 ####  Steven Ridenour
 ___
-### Assignment Description
+### Assignment Description:
 ### In this lab, I debug an existing app that has errors.
 ___
-### Lab Objectives
+### Lab Objectives:
 ### Run the web app and use the Error List Window
 ### Use the Internal Server Error page
 ### Set a breakpoint
@@ -22,7 +22,7 @@ ___
 ### Upload your zipped corrected files to your GitHub Week 4 folder. 
 ### Submit your Week 4 GitHub repo link to Blackboard.
 ___
-### Errors found in Tip Calculator app
+### Errors found in Tip Calculator app:
 
 
 
