@@ -11,7 +11,8 @@ namespace TipCalculator.Controllers
         {
             ViewBag.Fifteen = 0;
             ViewBag.Twenty = 0;
-            Viewbag.TwentyFive = 0;
+            //changed Viewbag to ViewBag
+            ViewBag.TwentyFive = 0;
             View();
         }
 
