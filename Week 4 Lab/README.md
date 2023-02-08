@@ -35,5 +35,10 @@ label{width} was spelled incorrectly
 TipCalculator.cs:
 added a semicolon
 
+## Errors in Controllers
+HomeController.cs:
+changed Viewbag to ViewBag
+return missing from return View()
+
 
 

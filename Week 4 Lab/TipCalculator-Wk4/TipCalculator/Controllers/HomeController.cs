@@ -13,7 +13,8 @@ namespace TipCalculator.Controllers
             ViewBag.Twenty = 0;
             //changed Viewbag to ViewBag
             ViewBag.TwentyFive = 0;
-            View();
+            //added return
+            return View();
         }
 
         [HttpPost]
