@@ -35,6 +35,7 @@ label{width} was spelled incorrectly
 TipCalculator.cs:
 added a semicolon to return tip
 changed formula divide by percent to multiply by percent
+changed range error message to better represent the range
 
 ## Errors in Controllers
 HomeController.cs:

@@ -5,7 +5,8 @@ namespace TipCalculator.Models
     public class Calculator
     {
         [Required(ErrorMessage = "Please enter a value for cost of meal.")]
-        [Range(0.0, 10000000.0, ErrorMessage = "Cost of meal must be greater than zero.")]
+        // Changed ErrorMessage to better represent the possible range
+        [Range(0.0, 10000000.0, ErrorMessage = "Cost of meal must be greater than zero and less than $10000000.00")]
         public double? MealCost { get; set; }
 
         public double CalculateTip(double percent)
