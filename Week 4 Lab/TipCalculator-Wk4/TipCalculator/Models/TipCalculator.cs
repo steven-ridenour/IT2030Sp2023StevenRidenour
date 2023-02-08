@@ -12,7 +12,8 @@ namespace TipCalculator.Models
         {
             if (MealCost.HasValue)
             {
-                var tip = MealCost.Value / percent;
+                // changed divide to multiply
+                var tip = MealCost.Value * percent;
                 //added a semicolon
                 return tip;
             }
