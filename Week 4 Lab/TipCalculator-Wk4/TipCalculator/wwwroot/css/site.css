@@ -10,7 +10,8 @@ h1 {
 
 label {
     display: inline-block;
-    widht: 10em;
+    /*corrected spelling of width*/
+    width: 10em;
     padding-right: 1em;
 }
 
