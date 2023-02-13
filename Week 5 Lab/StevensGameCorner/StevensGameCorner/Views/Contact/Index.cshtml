@@ -1,49 +1,76 @@
-﻿
-@{
-    ViewData["Title"] = "Index";
-}
+﻿@model ContactModel
 
-<h1>Index</h1>
+@{
+    ViewData["Title"] = "Contact Us";
+}
 
 <div class="container"> 
     <h1 class="mt-3 mb-4">@ViewBag.Title</h1> 
     <form asp-action="Index" method="post"> 
         <div class="row">
-            <label asp-for="MonthlyInvestment" 
+            <label asp-for="FirstName" 
                 class="col-md-3 col-form-label"> 
-                Monthly Investment: </label>    
+                First Name: </label>
             <div class="col-md-3"> 
-                <input asp-for="MonthlyInvestment" class="form-control" /> 
+                <input asp-for="FirstName" class="form-control" /> 
             </div>
-            <span asp-validation-for="MonthlyInvestment" class="col text-danger"></span>
-        </div> 
-        <div class="row">
-            <label asp-for="YearlyInterestRate" class="col-md-3 
-                col-form-label">
-                Yearly Interest Rate:</label> 
-        <div class="col-md-3"> 
-            <input asp-for="YearlyInterestRate" class="form-control" /> </div>
-        <span asp-validation-for="YearlyInterestRate" class="col text-danger"></span>
-        </div> 
-        <div class="row">
-            <label asp-for="Years" class="col-md-3 col-form-label"> 
-                Number of Years: </label>
-            <div class="col-md-3"> 
-            <input asp-for="Years" class="form-control" /></div> 
-            <span asp-validation-for="Years" 
+            <span asp-validation-for="FirstName" 
                 class="col text-danger"></span>
-        </div>
-        <div class="row"> 
-            <label class="col-md-3 col-form-label">Future Value:</label> 
-            <div class="col-md-3">
-                <input value="@ViewBag.FutureValue" readonly 
-                    class="form-control" />
+        </div> 
+        <div class="row">
+            <label asp-for="LastName" 
+                class="col-md-3 col-form-label"> 
+                Last Name: </label>
+            <div class="col-md-3"> 
+                <input asp-for="LastName" class="form-control" /> 
             </div>
+            <span asp-validation-for="LastName" 
+                class="col text-danger"></span>
+        </div> 
+        <div class="row">
+            <label asp-for="Address" 
+                class="col-md-3 col-form-label"> 
+                Address: </label>
+            <div class="col-md-3"> 
+                <input asp-for="Address" class="form-control" /> 
+            </div>
+            <span asp-validation-for="Address" 
+                class="col text-danger"></span>
+        </div> 
+        <div class="row">
+            <label asp-for="Phone" 
+                class="col-md-3 col-form-label"> 
+                Phone Number: </label>
+            <div class="col-md-3"> 
+                <input asp-for="Phone" class="form-control" /> 
+            </div>
+            <span asp-validation-for="Phone" 
+                class="col text-danger"></span>
+        </div> 
+        <div class="row">
+            <label asp-for="City" 
+                class="col-md-3 col-form-label"> 
+                City: </label>
+            <div class="col-md-3"> 
+                <input asp-for="City" class="form-control" /> 
+            </div>
+            <span asp-validation-for="City" 
+                class="col text-danger"></span>
+        </div> 
+        <div class="row">
+            <label asp-for="Message" 
+                class="col-md-3 col-form-label"> 
+                Message: </label>
+            <div class="col-md-3"> 
+                <input asp-for="Message" class="form-control" /> 
+            </div>
+            <span asp-validation-for="Message" 
+                class="col text-danger"></span>
         </div> 
         <div class="row"> 
             <div class="col offset-md-3"> 
                 <button type="submit" class="btn btn-primary"> 
-                    Calculate</button> 
+                    Submit</button> 
                 <a asp-action="Index"
                     class="btn btn-outline-secondary">Clear</a> 
             </div> 
