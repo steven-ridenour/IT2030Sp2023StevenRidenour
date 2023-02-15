@@ -16,3 +16,10 @@ html {
 body {
   margin-bottom: 60px;
 }
+.message-box {
+    height: 15em;
+}
+
+.row {
+    padding-top: 1em;
+}
