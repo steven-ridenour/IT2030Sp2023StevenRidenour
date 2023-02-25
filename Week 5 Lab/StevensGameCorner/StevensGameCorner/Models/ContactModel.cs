@@ -16,8 +16,8 @@ namespace StevensGameCorner.Models
         [Required(ErrorMessage = "Please enter your phone number.")]
         public string? Phone { get; set; }
 
-        [Required(ErrorMessage = "Please enter your city.")]
-        public string? City { get; set; }
+        [Required(ErrorMessage = "Please enter your email.")]
+        public string? Email { get; set; }
 
         [Required(ErrorMessage = "Please enter a message.")]
         public string? Message { get; set; }
