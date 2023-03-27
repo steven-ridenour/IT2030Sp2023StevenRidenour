@@ -9061,11 +9061,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\riden\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 7 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj",
+      "projectUniqueName": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 9 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj",
       "projectName": "StevensGameCorner",
-      "projectPath": "C:\\Users\\riden\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 7 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj",
+      "projectPath": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 9 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj",
       "packagesPath": "C:\\Users\\riden\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\riden\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 7 Lab\\StevensGameCorner\\StevensGameCorner\\obj\\",
+      "outputPath": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 9 Lab\\StevensGameCorner\\StevensGameCorner\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\riden\\AppData\\Roaming\\NuGet\\NuGet.Config",

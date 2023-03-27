@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f22iqPooHo8JIm1Y4sJU8TA5drXakmtpUSDxJA0Kx7CGIBXb8+8Rrre2RydB7fZ6/xzFvBjbrb/EoF+blJlvSQ==",
+  "dgSpecHash": "i9Me/aBcoL3/Gi4nBlUkyER35dM8bm4sIGk+78sikXm7GsReTyCujbsBrTDt/NBZaFxSoCSa4b20iQ8LNmSBWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\riden\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 7 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj",
+  "projectFilePath": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 9 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\riden\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\riden\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
