@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WOOUWP6EcM7/RlGD6Xz9ZzMHTtXfvsMaZVBRohTWvkQ=",
+  "Hash": "Hp7F1KMYMhcm3R74SVkVsXK1+S0E9UgtP2/SKY7s4Z8=",
   "Source": "StevensGameCorner",
   "BasePath": "_content/StevensGameCorner",
   "Mode": "Default",
@@ -102,6 +102,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\boardGames.jpg",
+      "SourceId": "StevensGameCorner",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\",
+      "BasePath": "_content/StevensGameCorner",
+      "RelativePath": "images/boardGames.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\boardGames.jpg"
+    },
+    {
       "Identity": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\Cards.jpg",
       "SourceId": "StevensGameCorner",
       "SourceType": "Discovered",
@@ -170,6 +187,40 @@
       "OriginalItemSpec": "wwwroot\\images\\Dicebox.jpg"
     },
     {
+      "Identity": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\download.png",
+      "SourceId": "StevensGameCorner",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\",
+      "BasePath": "_content/StevensGameCorner",
+      "RelativePath": "images/download.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\download.png"
+    },
+    {
+      "Identity": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\FNM.jpg",
+      "SourceId": "StevensGameCorner",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\",
+      "BasePath": "_content/StevensGameCorner",
+      "RelativePath": "images/FNM.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\FNM.jpg"
+    },
+    {
       "Identity": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\game_corner.jpg",
       "SourceId": "StevensGameCorner",
       "SourceType": "Discovered",
@@ -236,6 +287,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Pokerchips.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\Super_Smash_Bros._Ultimate.jpg",
+      "SourceId": "StevensGameCorner",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\",
+      "BasePath": "_content/StevensGameCorner",
+      "RelativePath": "images/Super_Smash_Bros._Ultimate.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Super_Smash_Bros._Ultimate.jpg"
     },
     {
       "Identity": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\js\\site.js",

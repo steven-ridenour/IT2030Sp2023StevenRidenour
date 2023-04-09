@@ -45,6 +45,10 @@ namespace StevensGameCorner.Controllers
             HttpContext.Session.SetInt32("FavNum", 22);
             return View();
         }
+        public IActionResult Events()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
