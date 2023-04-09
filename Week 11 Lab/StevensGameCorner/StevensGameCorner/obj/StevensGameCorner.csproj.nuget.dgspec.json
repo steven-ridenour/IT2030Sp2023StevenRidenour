@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 9 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 9 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 9 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj",
+        "projectName": "StevensGameCorner",
+        "projectPath": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 9 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj",
+        "packagesPath": "C:\\Users\\riden\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 9 Lab\\StevensGameCorner\\StevensGameCorner\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\riden\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
