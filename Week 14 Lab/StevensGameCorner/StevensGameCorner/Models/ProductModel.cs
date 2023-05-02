@@ -12,6 +12,7 @@ namespace StevensGameCorner.Models
 //    ProductImage – required and include a custom error message.
 //ProductPrice – use the DataType attribute to apply Currency to the ProductPrice field.
 //(See https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/validation?view=aspnetcore-6.0 for an example)
+        [Key]
         public int ProductID { get; set; }
         [Required(ErrorMessage = "Please enter a name.")]
         public string ProductName { get; set; } = string.Empty;
@@ -21,5 +22,6 @@ namespace StevensGameCorner.Models
         public string ProductImage { get; set; } = string.Empty;
         [DataType(DataType.Currency)]
         public decimal ProductPrice { get; set; }
+
     }
 }

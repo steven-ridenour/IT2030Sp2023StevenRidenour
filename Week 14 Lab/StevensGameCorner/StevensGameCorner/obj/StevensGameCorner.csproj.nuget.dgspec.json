@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj": {}
+    "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 14 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj": {
+    "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 14 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj",
+        "projectUniqueName": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 14 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj",
         "projectName": "StevensGameCorner",
-        "projectPath": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj",
+        "projectPath": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 14 Lab\\StevensGameCorner\\StevensGameCorner\\StevensGameCorner.csproj",
         "packagesPath": "C:\\Users\\riden\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 11 Lab\\StevensGameCorner\\StevensGameCorner\\obj\\",
+        "outputPath": "C:\\Users\\riden\\Desktop\\Desktop\\School\\IT2030 - ASP.NET Web Programming\\Repo\\IT2030Sp2023StevenRidenour\\Week 14 Lab\\StevensGameCorner\\StevensGameCorner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\riden\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,19 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.11, )"
+              "version": "[6.0.13, )"
             }
           },
           "imports": [

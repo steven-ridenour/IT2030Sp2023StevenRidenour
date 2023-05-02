@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using StevensGameCorner.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 
@@ -7,6 +10,9 @@ builder.Services.AddSession();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<StevensGameCornerContext>(options =>
+   options.UseSqlServer(builder.Configuration.GetConnectionString("StevensGameCornerContext") ?? throw new InvalidOperationException("Connection string 'StevensGameCornerContext' not found.")));
 
 var app = builder.Build();
 

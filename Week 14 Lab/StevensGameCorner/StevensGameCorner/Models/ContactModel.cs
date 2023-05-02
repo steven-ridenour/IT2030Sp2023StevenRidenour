@@ -19,7 +19,7 @@ namespace StevensGameCorner.Models
         public string? Address { get; set; }
 
         [Required(ErrorMessage = "Please enter your phone number.")]
-        [RegularExpression("^\\+?[1-9][0-9]{7,14}$", ErrorMessage = "Ohone number must only contain digits")]
+        [RegularExpression("^\\+?[1-9][0-9]{7,14}$", ErrorMessage = "Phone number must only contain digits")]
         [StringLength(10, ErrorMessage = "First name must be 10 digits")]
         public string? Phone { get; set; }
 
@@ -29,6 +29,10 @@ namespace StevensGameCorner.Models
 
         [Required(ErrorMessage = "Please enter a message.")]
         public string? Message { get; set; }
+
+        [Key]
+        public int ContactId { get; set; }
+
 
     }
 }
