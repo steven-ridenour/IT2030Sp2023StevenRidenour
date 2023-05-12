@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StevensGameCorner.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StevensGameCorner.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\Cards.jpg",
+      "PackagePath": "staticwebassets\\images\\Cards.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\Dice.jpg",
+      "PackagePath": "staticwebassets\\images\\Dice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\Dicebag.jpg",
+      "PackagePath": "staticwebassets\\images\\Dicebag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\Dicebox.jpg",
+      "PackagePath": "staticwebassets\\images\\Dicebox.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\FNM.jpg",
+      "PackagePath": "staticwebassets\\images\\FNM.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\Mat.jpg",
+      "PackagePath": "staticwebassets\\images\\Mat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\Pokerchips.jpg",
+      "PackagePath": "staticwebassets\\images\\Pokerchips.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\Store Front.jpg",
+      "PackagePath": "staticwebassets\\images\\Store Front.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\Super_Smash_Bros._Ultimate.jpg",
+      "PackagePath": "staticwebassets\\images\\Super_Smash_Bros._Ultimate.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\boardGames.jpg",
+      "PackagePath": "staticwebassets\\images\\boardGames.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\download.png",
+      "PackagePath": "staticwebassets\\images\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\game_corner.jpg",
+      "PackagePath": "staticwebassets\\images\\game_corner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\images\\game_corner2.jpg",
+      "PackagePath": "staticwebassets\\images\\game_corner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\riden\\Desktop\\School\\ASP\\IT2030Sp2023StevenRidenour\\Week 16 Lab\\StevensGameCorner\\StevensGameCorner\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StevensGameCorner.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StevensGameCorner.props",
+      "PackagePath": "build\\StevensGameCorner.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StevensGameCorner.props",
+      "PackagePath": "buildMultiTargeting\\StevensGameCorner.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StevensGameCorner.props",
+      "PackagePath": "buildTransitive\\StevensGameCorner.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

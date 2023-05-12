@@ -1,0 +1,28 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.message-box {
+    height: 15em;
+}
+
+.row {
+    padding-top: 1em;
+}
+.text-danger {
+    padding-left: 27.5em;
+}
